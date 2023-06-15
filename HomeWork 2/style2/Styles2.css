@@ -1,0 +1,32 @@
+table,tr,td{
+    border: 1px solid grey(226, 14, 14);
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+}
+
+
+.top-img{
+    width: 100px;
+    height: auto;
+}
+.middle-img{
+    vertical-align: middle;
+    width: 100px;
+    height: auto;
+    
+    transform: rotate(180deg);
+}
+.bottom-img{
+    width: 100px;
+    height: auto;
+}
+.top-color{
+    background: powderblue;
+}
+.middle-color{
+    background: purple;
+}
+.bottom-color{
+    background: pink;
+}

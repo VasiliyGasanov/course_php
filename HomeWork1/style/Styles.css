@@ -1,0 +1,54 @@
+.element1 {
+    
+    background: powderblue;
+    float: none;
+    width: 100%;
+    border: solid 1px grey;
+    height: 50px;
+    }
+
+.element2 {
+    
+    background: powderblue;
+    float: left;
+    width: 28%;
+    border:  solid 1px grey;
+    height: 550px;
+    }
+     
+.element3 {
+    
+    background: powderblue;
+    float: none;
+    width: 100%;
+    border: solid 1px grey;
+    height: 30px;
+    }
+    .element4 {
+    width: 609px;
+    float: left;
+    background: powderblue;
+    border: solid 1px grey;
+    height: 300px;
+    
+    }
+
+.element5 {
+    width: 619px;
+    float: left;
+    background: powderblue;
+    border: solid 1px grey;
+    height: 300px;
+        
+    }
+    
+.space {
+        padding: 15px;
+    }
+    
+.top{
+        text-align: center;
+        margin-top: 7px;
+        height: 100%;
+        width: 100%;
+    }
